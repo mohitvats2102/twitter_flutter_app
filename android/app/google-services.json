@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "7093561226",
+    "firebase_url": "https://flutter-twitter-29620.firebaseio.com",
+    "project_id": "flutter-twitter-29620",
+    "storage_bucket": "flutter-twitter-29620.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:7093561226:android:f659c4aaeb6eea065f8a73",
+        "android_client_info": {
+          "package_name": "com.vatsmohit.twitter_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "7093561226-rsm41irkpuf0866nv7784ehk72o1f1ki.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmc_g2xIAQC7_Wvn_N6_sAMfwYzNZYCWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "7093561226-rsm41irkpuf0866nv7784ehk72o1f1ki.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
